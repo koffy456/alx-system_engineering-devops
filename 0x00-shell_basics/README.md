@@ -1,3 +1,3 @@
 
-#!/bin/bash
-Readme file for main repo
+#!bin/bash
+pwd
